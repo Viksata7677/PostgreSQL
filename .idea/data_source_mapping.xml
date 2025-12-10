@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/queries/alter_the_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
-    <file url="file://$PROJECT_DIR$/queries/create_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
-    <file url="file://$PROJECT_DIR$/queries/rename_the_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/data_types_working_with_tables/alter_the_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/data_types_working_with_tables/create_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/data_types_working_with_tables/rename_column.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/data_types_working_with_tables/rename_the_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
   </component>
 </project>
