@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/basic_CRUD/create_database.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/create_view_for_top_paid_employee.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/delete_from_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/insert_data_into_employees_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/insert_resources.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/select_and_display_employee_info.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/select_employees_by_filtering_and_ordering.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/select_employees_by_multiple_filters.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/update_employees_salary.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_constraints.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_new_columns.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/alter_the_table.sql" dialect="PostgreSQL" />
