@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/basic_CRUD/alter_view.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/award_employees_with_experience.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/compare_character_values.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/concatenate.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/create_database.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/create_view.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/create_view_for_top_paid_employee.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/create_view_with_multiple_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/delete_addresses.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/delete_from_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/drop_view.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/find_the_addresses.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/insert_data_into_employees_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/insert_departments.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/insert_resources.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/like.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/limit_records.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/missing_value.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/multiple_conditions.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/new_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/populate_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/positive_even_number.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/projects_within_data_range.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/remove_duplicate_rows.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/salary.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/select_and_display_employee_info.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/select_cities.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/select_employees_by_filtering_and_ordering.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/select_employees_by_multiple_filters.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/set_of_values.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/skip_rows.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/substring.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/update_employees_salary.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/update_the_project_end_date.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/basic_CRUD/upper.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_constraints.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_new_columns.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/alter_the_table.sql" dialect="PostgreSQL" />
