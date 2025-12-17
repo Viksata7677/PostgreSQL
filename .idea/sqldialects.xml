@@ -36,6 +36,43 @@
     <file url="file://$PROJECT_DIR$/basic_CRUD/update_employees_salary.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/update_the_project_end_date.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/upper.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/(descr)iption.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/absolute_value.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/arithmetical_operators.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/average_value.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/billing_day.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/capital_code.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/character_length_and_bits.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/concatenate_geography_data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/count_by_initial.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/early_birds.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/elevation_peak_name.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/extract_booked_at.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/find_book_titles.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/format_costs.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/format_dates_of_birth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/harry_potter_books.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/leading.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/length_of_a_number.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/ltrim_and_rtrim.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/match_or_not.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/populate_booking_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/populate_database.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/populate_geography_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/positive_and_negative_left.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/positive_and_negative_right.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/replace_a.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/replace_titles.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/reverse_country_code.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/river_info.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/round_vs_trunc.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/substring_river_length.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/sum.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/trailing.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/translate.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/triangles_on_bookshelves.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/update_iso_code.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/year_of_birth.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_constraints.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_new_columns.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/alter_the_table.sql" dialect="PostgreSQL" />

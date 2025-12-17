@@ -36,6 +36,43 @@
     <file url="file://$PROJECT_DIR$/basic_CRUD/update_employees_salary.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/update_the_project_end_date.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/basic_CRUD/upper.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/(descr)iption.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/absolute_value.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/arithmetical_operators.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/average_value.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/billing_day.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/capital_code.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/character_length_and_bits.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/concatenate_geography_data.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/count_by_initial.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/early_birds.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/elevation_peak_name.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/extract_booked_at.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/find_book_titles.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/format_costs.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/format_dates_of_birth.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/harry_potter_books.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/leading.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/length_of_a_number.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/ltrim_and_rtrim.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/match_or_not.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/populate_booking_db.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/populate_database.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/populate_geography_db.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/positive_and_negative_left.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/positive_and_negative_right.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/replace_a.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/replace_titles.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/reverse_country_code.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/river_info.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/round_vs_trunc.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/substring_river_length.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/sum.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/trailing.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/translate.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/triangles_on_bookshelves.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/update_iso_code.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/buildin_functions/year_of_birth.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_constraints.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_new_columns.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/alter_the_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
