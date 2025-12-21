@@ -73,6 +73,37 @@
     <file url="file://$PROJECT_DIR$/buildin_functions/triangles_on_bookshelves.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/buildin_functions/update_iso_code.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/buildin_functions/year_of_birth.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/age_group.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/average_salary_per_department.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/avg_magic_wand_size.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/bank_profitability.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/categorizes_salary.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/count_of_records.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/department_names.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/departments_info_by_id.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/departments_info_by_salary_count.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/filter_max_deposit.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/filter_total_salaries.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/foreign_key.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/group_by_deposit_interest.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/having_salary_level.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/join_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/limit_the_magic_wand_creator.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/max_age.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/max_salary_per_department.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/min_deposit_charge.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/min_salary_per_department.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/nested_case_conditions.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/notes_with_dumbledore.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/populate_data_aggregation_softuni_management_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/populate_gringotts_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/populate_restaurant_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/sum_salaries_per_department.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/sum_the_employees.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/total_deposit_amount.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/update_employees_data.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/where_project_status.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/data_aggregation/wizard_view.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_constraints.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/add_new_columns.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/alter_the_table.sql" dialect="PostgreSQL" />
