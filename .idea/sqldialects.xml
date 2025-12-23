@@ -121,6 +121,25 @@
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/set_default.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/table_birthdays.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/truncate_the_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/car_manufacture.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/countries_without_any_rivers.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/customs.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/delete_cascade.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/delete_mountains.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/mountains_and_peaks.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/online_store.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/peaks_in_rila.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/photo_shooting.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/populate_camp_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/populate_table_relations_geography_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/primary_key.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/project_management_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/remove_primary_key.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/set_null.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/softuni_hiking.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/study_session.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/trip_organization.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/table_relations/update_cascade.sql" dialect="PostgreSQL" />
     <file url="PROJECT" dialect="PostgreSQL" />
   </component>
 </project>
