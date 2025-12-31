@@ -121,6 +121,28 @@
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/set_default.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/table_birthdays.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/truncate_the_table.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/booked_for_nights.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/booking_information.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/bookings_made_by_lead.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/bulgarias_peaks_higher_than_2835_meters.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/count_mountain_ranges.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/countries_without_any_mountains.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/employees_projects.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/first_10_apartments_booked_at.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/first_10_customers_with_bookings.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/hahns_bookings.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/higher_salary.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/managers.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/minimum_average_area_across_continents.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/multiplication_of_information.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/popular_vacation_destination.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/populate_soft_uni_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/populate_subqueries_joins_booking_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/populate_subqueries_joins_geography_db.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/rivers_in_africa.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/total_sum_of_nights.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/town_addresses.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/subqueries_and_joins/unassigned_apartments.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/table_relations/car_manufacture.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/table_relations/countries_without_any_rivers.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/table_relations/customs.sql" dialect="PostgreSQL" />
