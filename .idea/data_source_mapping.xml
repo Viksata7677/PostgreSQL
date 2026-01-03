@@ -121,6 +121,26 @@
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/set_default.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/table_birthdays.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/data_types_working_with_tables/truncate_the_table.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/cash_in_user_games_odd_rows.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/count_employees_by_town.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/delete_procedure.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/deposit_money.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/difficulty_level.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/employees_promotion.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/employees_promotion_by_id.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/game_over.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/log_accounts_trigger.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/money_transfer.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/notification_email_on_balance_change.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/populate_bank_db.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/populate_diablo_db.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/populate_soft_uni_db.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/retrieving_account_holders.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/triggered.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/user_defined_function_full_name.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/user_defined_function_future_value.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/user_defined_function_is_word_compromised.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
+    <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/withdraw_money.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/subqueries_and_joins/booked_for_nights.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/subqueries_and_joins/booking_information.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
     <file url="file://$PROJECT_DIR$/subqueries_and_joins/bookings_made_by_lead.sql" value="e17fc839-3c19-449e-b975-2043655e6adf" />
