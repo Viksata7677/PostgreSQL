@@ -141,6 +141,18 @@
     <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/user_defined_function_future_value.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/user_defined_function_is_word_compromised.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/database_programmability_and_transactions/withdraw_money.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/cars.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/courses_by_clients_phone_number.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/database_design.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/delete.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/drivers_and_cars.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/full_info_for_address.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/full_information_of_courses.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/import_dataset.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/insert.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/numbers_of_courses_for_each_car.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/regular_clients.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exam_preparation/update.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/subqueries_and_joins/booked_for_nights.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/subqueries_and_joins/booking_information.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/subqueries_and_joins/bookings_made_by_lead.sql" dialect="PostgreSQL" />
